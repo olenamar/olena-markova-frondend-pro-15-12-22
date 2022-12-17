@@ -25,6 +25,7 @@ for (let n = 1; n < 11; n++) {
     console.log(`${n} * 7 = ${n * 7}`);
 }
 console.groupEnd();
+
 console.group('Fourth');
 let multi = 15;
 for (let m = 16; m <= 35; m++) {
